@@ -1,0 +1,26 @@
+{
+  "name": "sem5-proj-clg-mgt",
+  "version": "1.0.0",
+  "description": "Backend server for Semester 5 Android project using Node.js, Express, and MongoDB.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilshivekar/sem5-proj-CLG-MGT.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongodb",
+    "backend",
+    "api"
+  ],
+  "author": "Sahil Nilesh Shivekar <sahilshivekarce@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilshivekar/sem5-proj-CLG-MGT/issues"
+  },
+  "homepage": "https://github.com/sahilshivekar/sem5-proj-CLG-MGT#readme"
+}
