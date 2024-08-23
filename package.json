@@ -2,11 +2,11 @@
   "name": "sem5-proj-clg-mgt",
   "version": "1.0.0",
   "description": "Backend server for Semester 5 Android project using Node.js, Express, and MongoDB.",
-  "main": "server.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon -r dotenv/config --experimental-json-modules src/server.js"
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
   },
   "repository": {
     "type": "git",
