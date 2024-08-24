@@ -14,9 +14,11 @@ app.use(cors({
     credentials: true
 }))
 
+app.use("/api/v1/testing", (req, res) => {
+    res.send("Successfully deployed");
+})
 
 //routes import
-
 
 //routes declaration
 
